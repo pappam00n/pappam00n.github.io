@@ -1,0 +1,134 @@
+
+/*Lewis Hey, Lewis_Hey@yahoo.com*/
+.headerContainer{
+
+	position: relative;
+	margin: auto;
+	height: 200px;
+	width:1350px;
+	left:15px;
+
+}
+.headerLogo{
+
+	height: 200px;
+	width: 200px;
+	margin:auto;
+	display:inline-block;
+	top:-45px;
+
+}
+.headerName{
+	
+	height: 200px;
+	width: 1090px;
+	font-family: 'Quicksand', sans-serif;
+	color: #4D4D4D;
+	margin: auto;
+	display: inline-block;
+
+}
+.headerName h1{
+
+	font-size:75px;
+	top: -30px;
+
+}
+.headerName p{
+
+	font-size:25px;
+	position: relative;
+	top: -30px;
+	color: #FF6600;
+
+}
+.headerName p, h1{
+
+	text-align: right;
+
+}
+
+.headerLine{
+
+	height: 5px;
+	width: 1150px;
+	margin: auto;
+	position: relative;
+	background-color: #4D4D4D;
+	top:18px;
+
+}
+
+.featuredImage{
+
+	width: 1300px;
+	height: 500px;
+	position: relative;
+	top: 30px;
+	margin: auto;
+	left: 75px;
+
+}
+
+.linkBoxTitle{
+
+	width: 1300px;
+	margin: auto;
+	position: relative;
+	left: 75px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 45px;
+	color: #4D4D4D;
+
+}
+
+
+.linkImageContainer{
+
+	width: 1300px;
+	height: 200px;
+	position: relative;
+	margin: auto;
+	top:-55px;
+
+}
+.link{
+
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 75px;
+	margin-right: 50px;
+	
+}
+.linkTextContainer{
+
+	width: 1300px;
+	height: 30px;
+	position: relative;
+	margin: auto;
+	top:-45px;
+
+}
+.linkText{
+
+	display: inline-block;
+	margin-left: 75px;
+	margin-right: 50px;
+	width: 300px;
+	height:60px;
+	font-family:'Quicksand';
+	font-size:30px;
+	text-align: center;
+	position: relative;
+
+}
+.headerName p, h1{
+
+	text-align: right;
+
+}
+
+
+
